@@ -33,7 +33,7 @@ I'm a **Data Engineer** with hands-on experience designing and building scalable
 
 ## 🔍 What You’ll Find on My GitHub
 
-- Real-world **data engineering projects** (not toy examples)
+- Real-world **data engineering projects**
 - Clean, modular **PySpark codebases**
 - SQL-based transformations and data modeling examples
 - Practical solutions to common Databricks challenges (permissions, storage paths, performance)
